@@ -1,0 +1,22 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Datasets and large archives
+datasets/
+*.tgz
+*.zip
+
+# Visualizations output directory
+images/
+
+# OS specific files
+.DS_Store
+Thumbs.db
